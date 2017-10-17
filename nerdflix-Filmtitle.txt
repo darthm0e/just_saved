@@ -1,0 +1,98 @@
+Driving Miss Daisy Chain
+Memory Resident Evil
+Raiders of the Lost ARP
+A Beautiful BIND
+Desperate house wifi's
+no SALT
+Ohm Alone
+There's Something About Mary's Code
+Full Metal Packet
+Beverly Hills Pcap
+Batman Returns-into-libc
+Extremely pwned and Incredibly hosed
+~/alone
+HTML5 Gordon
+The Kaminsky Code
+Apache Down
+The Netbook
+Whitehats Can't code
+Despicable WindowsME
+The SHA-1 Redemption
+1U Over the Cuckoo's Nest
+Oceans 802.11
+The Little Endian in the Cupboard
+Schindler's Linked List
+Inglorious Hackers
+XSS in the City and the Sequel XSS in the City: alert(2)
+12 Trolls
+12 Code Monkeys
+whoami Legend
+Saving Private Keys
+#00FF00 Lantern
+Citizen DANE
+Citizen Cain & Abel
+Gone with the Meme
+In her Majesty's SQL Server
+I know what you compiled last Summer of Code
+Port Knocked Up
+Fantastic ARCFOUR
+Top GNU
+The Manchurian RC
+Death Race Condition 2000
+a beatiful BIND
+The Ring 0
+The Hunchback of Notre DOM
+Information Technology Came from Outer Space
+BackTrack Mountain
+The Girl With The Snapdragon Tattoo
+Independence 0Day
+2 Fast 2 Fourier
+Beauty and the BSD
+Jurassic PARC
+Indiana Jones and the LAst Cross-Site Scripting
+DIMM and DIMMer
+Stateless ind Seattle
+SUDO the Ring Thing
+Enemy Minecraft
+Sheldon Island
+The good, the bad and the code you inherited from your predecessor
+Python on a Plane
+007 - License to ... r/w/x
+A League of their Chown
+Deep Packet Inspector Gadget
+RoboCopy
+How to Train Your Dragon NaturallySpeaking
+The BReakpoint Club
+Paypal It forward
+monty.py
+When Alice met Bob
+vi for vendetta
+Alien vs. Administrator
+The Grapes of $PATH
+Two and a half Men in the Middle
+The Hills have iPhones
+Zak and Miri Configure, Make, Make install a Porn
+Dirty Twisted Pair
+It's a wonderful runtime
+The Big Kernel Lock Theory
+Four Web Browsers and an Internet
+LDAP Confidential
+Clock Generator Orange
+Dick Tracert
+WatchDogmen
+IPv6 Man
+Malcolm X11
+American History X11
+Lost in Compilation
+SHA Wars
+Batman BEGINS; DECLARES;
+Monty Python and The Advanced Persistent Grail
+Indiana Jones and the Mountain of Dew
+How i hacked your Mother
+the /x41 Team
+Family GUI
+Enemy of the Statemachine
+Game of Inodes
+gcc -Wall -E
+9 1/2 Leaks
+Das BOOTP
